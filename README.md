@@ -1,13 +1,12 @@
 # FunOnRails
-
 ## Manage stuffs related to blog here
 
-## Icons
+## Icon Set
 
-### Title Image
-![funonrails](http://github.com/sandipransing/funonrails/blob/master/icons/fortitle.gif "FunOnRails")
+### Title
+![funonrails](http://github.com/sandipransing/funonrails/raw/master/icons/fortitle.gif "FunOnRails")
 
 ### Style
-![funonrails logo](http://github.com/sandipransing/funonrails/blob/master/icons/funonrails.PNG "FunOnRails Logo")
+![funonrails logo](http://github.com/sandipransing/funonrails/raw/master/icons/funonrails.PNG "FunOnRails Logo")
 
-==========
+###### Sandip Ransing
